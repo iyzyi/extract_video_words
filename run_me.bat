@@ -1,0 +1,2 @@
+python3 extract_video_words.py
+pause
